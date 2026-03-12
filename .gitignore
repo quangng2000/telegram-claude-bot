@@ -1,0 +1,5 @@
+telegram-claude-bot
+sessions/
+*.log
+CLAUDE.md
+telegram-claude-bot.service
